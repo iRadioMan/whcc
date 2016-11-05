@@ -1,0 +1,17 @@
+D:\Programing\Projects\C#\RecolorImage\RecolorImage\bin\Debug\RecolorImage.exe
+D:\Programing\Projects\C#\RecolorImage\RecolorImage\bin\Debug\RecolorImage.pdb
+D:\Programing\Projects\C#\RecolorImage\RecolorImage\obj\Debug\RecolorImage.csprojResolveAssemblyReference.cache
+D:\Programing\Projects\C#\RecolorImage\RecolorImage\obj\Debug\RecolorImage.Form1.resources
+D:\Programing\Projects\C#\RecolorImage\RecolorImage\obj\Debug\RecolorImage.Properties.Resources.resources
+D:\Programing\Projects\C#\RecolorImage\RecolorImage\obj\Debug\RecolorImage.csproj.GenerateResource.Cache
+D:\Programing\Projects\C#\RecolorImage\RecolorImage\obj\Debug\RecolorImage.exe
+D:\Programing\Projects\C#\RecolorImage\RecolorImage\obj\Debug\RecolorImage.pdb
+C:\Users\RadioMan\Desktop\RecolorImage\obj\Debug\RecolorImage.exe
+C:\Users\RadioMan\Desktop\RecolorImage\obj\Debug\RecolorImage.pdb
+C:\Users\RadioMan\Desktop\RecolorImage\bin\Debug\RecolorImage.exe
+C:\Users\RadioMan\Desktop\RecolorImage\bin\Debug\RecolorImage.pdb
+C:\Users\RadioMan\Desktop\RecolorImage\obj\Debug\RecolorImage.csprojResolveAssemblyReference.cache
+C:\Users\RadioMan\Desktop\RecolorImage\obj\Debug\RecolorImage.Form1.resources
+C:\Users\RadioMan\Desktop\RecolorImage\obj\Debug\RecolorImage.Properties.Resources.resources
+C:\Users\RadioMan\Desktop\RecolorImage\obj\Debug\RecolorImage.csproj.GenerateResource.Cache
+C:\Users\RadioMan\Desktop\RecolorImage\bin\Debug\RecolorImage.exe.config
